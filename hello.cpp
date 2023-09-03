@@ -1,6 +1,6 @@
 // Your First C++ Program
 #include <iostream>
 int main () {
-  std::cout << "Hello mundo!";
+  std::cout << "Hola Pueblo!";
   returs 0;
 }
